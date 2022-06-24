@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eA0vfegsjatC0Qjx6DDMfJR74iqsrWwX4IG4reFZH5CugOE2Kjk+3Kyrg8xLT+r5Bbk1jnpK8m0SjykpwYSijQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\ChessGameOnTelephoneKeypad\\ChessGameOnTelephoneKeypad\\ChessGameOnTelephoneKeypad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

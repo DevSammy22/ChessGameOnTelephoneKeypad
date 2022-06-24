@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\bin\Debug\net5.0\ChessGameOnTelephoneKeypadServices.deps.json
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\bin\Debug\net5.0\ChessGameOnTelephoneKeypadServices.dll
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\bin\Debug\net5.0\ref\ChessGameOnTelephoneKeypadServices.dll
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\bin\Debug\net5.0\ChessGameOnTelephoneKeypadServices.pdb
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\obj\Debug\net5.0\ChessGameOnTelephoneKeypadServices.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\obj\Debug\net5.0\ChessGameOnTelephoneKeypadServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\obj\Debug\net5.0\ChessGameOnTelephoneKeypadServices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\obj\Debug\net5.0\ChessGameOnTelephoneKeypadServices.AssemblyInfo.cs
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\obj\Debug\net5.0\ChessGameOnTelephoneKeypadServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\obj\Debug\net5.0\ChessGameOnTelephoneKeypadServices.dll
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\obj\Debug\net5.0\ref\ChessGameOnTelephoneKeypadServices.dll
+C:\Users\hp\source\repos\ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypadServices\obj\Debug\net5.0\ChessGameOnTelephoneKeypadServices.pdb

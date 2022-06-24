@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGameOnTelephoneKeypad", "ChessGameOnTelephoneKeypad\ChessGameOnTelephoneKeypad.csproj", "{52E9377D-0522-4DD0-8954-8CDDDEE035E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGameOnTelephoneKeypadServices", "ChessGameOnTelephoneKeypadServices\ChessGameOnTelephoneKeypadServices.csproj", "{FD21A8CF-3576-45F3-95A7-F0269F043605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E9377D-0522-4DD0-8954-8CDDDEE035E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E9377D-0522-4DD0-8954-8CDDDEE035E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E9377D-0522-4DD0-8954-8CDDDEE035E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E9377D-0522-4DD0-8954-8CDDDEE035E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD21A8CF-3576-45F3-95A7-F0269F043605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD21A8CF-3576-45F3-95A7-F0269F043605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD21A8CF-3576-45F3-95A7-F0269F043605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD21A8CF-3576-45F3-95A7-F0269F043605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F436D9-546E-4AAB-8A65-424A863FC6E4}
+	EndGlobalSection
+EndGlobal
